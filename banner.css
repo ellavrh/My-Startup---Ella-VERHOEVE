@@ -1,0 +1,18 @@
+.banner {
+	background-image: linear-gradient(100deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 50%), url(https://lesvoyagescollectifs.com/wp-content/uploads/2024/05/AdobeStock_696182326-scaled.jpeg);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+.banner h1 {
+	font-size: 40px;
+	color: #FF5733;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: bolder;
+	opacity: 0.8;
+	margin-bottom: 30px;
+
+}
